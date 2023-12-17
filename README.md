@@ -1,8 +1,5 @@
 # Ask Me
 
-
-Brief introduction and description of your Android app.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -22,10 +19,10 @@ Welcome to Ask Me! This Android app leverages the power of the Gemini generative
 
 ## Tech Stack
 
-- **Gemini Generative AI Model**: [Link to Gemini](#)
-- **Jetpack Compose**: [Link to Jetpack Compose](#)
-- **MVVM Architecture**: [Link to MVVM Architecture](#)
-- **Hilt Dependency Injection**: [Link to Hilt](#)
+- **Gemini Generative AI Model**
+- **Jetpack Compose**
+- **MVVM Architecture**
+- **Hilt Dependency Injection**
 
 ## Getting Started
 
