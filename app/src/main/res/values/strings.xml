@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ask Me</string>
+
+
+    <!-- Photo Reasoning sample strings -->
+    <string name="reason_label">Question</string>
+    <string name="reason_hint">Upload an image or ask a question</string>
+    <string name="add_image">Add Image</string>
+
+    <!-- Chat sample strings -->
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+
+    <string name="chat_welcome">Welcome to Ask Me! Ask me anything!</string>
+</resources>
